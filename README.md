@@ -1,4 +1,4 @@
-# Yijun Quan 👋
+# Yijun Quan
 
 **Research Fellow | University of Warwick, WMG**
 
@@ -32,10 +32,6 @@ I am a Research Fellow at the Warwick Manufacturing Group (WMG), University of W
 
 Find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=FGdIR7sAAAAJ&hl=en).
 
-## 🏅 Honors & Highlights
-
-- Trinity Overseas Bursary, Trinity College Cambridge
-- Best Overall Result Award, Department of Computer Science, University of Warwick
 
 ---
 
