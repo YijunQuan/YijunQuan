@@ -1,9 +1,7 @@
 # Yijun Quan
-
 **Research Fellow | University of Warwick, WMG**
 
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=FGdIR7sAAAAJ&hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YijunQuan-blue)](https://uk.linkedin.com/in/yijun-quan-559ba588)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-blue)](https://scholar.google.com/citations?user=FGdIR7sAAAAJ&hl=en) [![LinkedIn](https://img.shields.io/badge/LinkedIn-YijunQuan-blue)](https://uk.linkedin.com/in/yijun-quan-559ba588)
 
 ---
 
@@ -28,10 +26,13 @@ I am a Research Fellow at the Warwick Manufacturing Group (WMG), University of W
 - Robust Machine and Deep Learning in Industrial Automation
 - Ensemble and Knowledge Distillation in Neural Networks
 
+[1-230124-WU-68_1.jpg](https://github.com/YijunQuan/YijunQuan/blob/main/1-230124-WU-68_1.jpg)
+
+![](https://github.com/YijunQuan/YijunQuan/blob/main/1-230124-WU-68_1.jpg)
+
 ## 📄 Selected Publications
 
 Find my full publication list on [Google Scholar](https://scholar.google.com/citations?user=FGdIR7sAAAAJ&hl=en).
-
 
 ---
 
