@@ -28,7 +28,7 @@ I am a Research Fellow at the Warwick Manufacturing Group (WMG), University of W
 
 [1-230124-WU-68_1.jpg](https://github.com/YijunQuan/YijunQuan/blob/main/1-230124-WU-68_1.jpg)
 
-![](https://github.com/YijunQuan/YijunQuan/blob/main/1-230124-WU-68_1.jpg)
+<img src="https://github.com/YijunQuan/YijunQuan/blob/main/1-230124-WU-68_1.jpg" width="250"/>
 
 ## 📄 Selected Publications
 
